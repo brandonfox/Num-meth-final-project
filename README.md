@@ -1,6 +1,6 @@
 # Numerical Method Final Project
 
-We created an algorithm to differentiate piano noise and violin noise. Samples used in this project are based on instrumental samples downloaded from the University of Iowa. To keep things consistent I will be using only fortissimo samples as the newer violin samples are all ff file extension.
+We created an algorithm to differentiate piano noise and violin noise. Samples used in this project are based on instrumental samples downloaded from the University of Iowa. To keep things consistent I will be using only fortissimo samples as the newer violin samples are all ff.
 
 ## Getting Started
 
